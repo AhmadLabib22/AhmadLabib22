@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmadLabib22
-- 👀 I’m interested in business
-- 🌱 I’m currently learning Data analysis
+- 👀 I’m interested in business development
+- 🌱 I’m currently learning Data analysis with udacity
 - 💞️ I’m looking to collaborate on all sites
 - 📫 How to reach me via udacity
 
